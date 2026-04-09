@@ -1,0 +1,16 @@
+.github/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Test and tooling caches
+.pytest_cache/
+.mypy_cache/
