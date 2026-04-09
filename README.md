@@ -149,4 +149,4 @@ Some high-level patterns observed in the notebook include:
 
 ## Author
 
-Created as a Python data analysis and portfolio practice project.
+Heenal S.
